@@ -41,7 +41,7 @@ Initializing Repository
 Repo initialization :
     
     ## Releases Repo ##
-    $ repo init -u https://github.com/BlissRoms/platform_manifest.git -b r
+    $ repo init -u https://github.com/TheRingMaster/platform_manifest.git -b r
 
 sync repo :
 
